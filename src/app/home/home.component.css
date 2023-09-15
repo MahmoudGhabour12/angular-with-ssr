@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+  font-size: 40px;
+  font-family: Serif;
+  font-weight: strong;
+}
+p {
+  font-family: Sans-Serif;
+  text-align: center;
+  font-size: 20px;
+}
+#grey {
+  background-color: grey;
+}
+
+.container {
+  background-color: grey;
+}
